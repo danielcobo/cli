@@ -199,7 +199,7 @@
   ],
   "devDependencies": {
     "@npmcli/eslint-config": "^1.0.2",
-    "eslint": "^7.31.0",
+    "eslint": "^8.1.0",
     "eslint-plugin-node": "^11.1.0",
     "licensee": "^8.2.0",
     "spawk": "^1.7.1",
